@@ -1,0 +1,11 @@
+{
+    "portfolio": [
+        {
+            "cover": "../assets/images/out. (1).jpg",
+            "title": "More",
+            "description": "Web development : project",
+            "url": "https://github.com/anirbanpaulin"
+
+        }
+    ]
+}
